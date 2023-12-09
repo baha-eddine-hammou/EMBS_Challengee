@@ -6,8 +6,8 @@ contains the dataset that we are working on plus Model_XGBClassifier that trains
 #PCB_Schematic Folder 
 contains pcb schematic for our envisioned medical device 
 
-#Drive link for the EMBS Dashboard 
-that contains the code for our dashboard : https://drive.google.com/file/d/1EOd2v-TZEvQUDTCprdj5WcEtZXD9rYfe/view?usp=sharing 
+#Drive link for the EMBS Dashboard Prototype
+that contains the code for our dashboard Prototype : https://drive.google.com/file/d/1EOd2v-TZEvQUDTCprdj5WcEtZXD9rYfe/view?usp=sharing 
 
 
 #Bibliographie: 
