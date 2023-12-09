@@ -9,6 +9,9 @@ contains pcb schematic for our envisioned medical device
 #Drive link for the EMBS Dashboard Prototype
 that contains the code for our dashboard Prototype : https://drive.google.com/file/d/1EOd2v-TZEvQUDTCprdj5WcEtZXD9rYfe/view?usp=sharing 
 
+#Figma link to EMBS App Prototype
+https://www.figma.com/proto/SfRwKMJOHaMoce5dshNBTP/EMBS-TSYP-challenge?type=design&node-id=27-771&t=IP0OvRjq87zVmNJm-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=15%3A792&mode=design 
+
 
 #Bibliographie: 
 https://www.kaggle.com/code/fathyfathysahlool/xgb-classifier/notebook 
